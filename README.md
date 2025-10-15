@@ -1,7 +1,7 @@
 # Global-Indicators
 
 ### **Data Sources
-1.World Bank Api ![]https://api.worldbank.org/v2/country/all?format=JSON&per_page=500 for Country Details
+1.World Bank Api https://api.worldbank.org/v2/country/all?format=JSON&per_page=500 for Country Details
 2. Economic Indicators for Countries from https://databank.worldbank.org/source/world-development-indicators
 
 ### **Objective**
